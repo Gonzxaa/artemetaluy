@@ -1,0 +1,169 @@
+{
+	"galeria": [
+		{
+			"nombre": "1",
+			"ruta": "assets/img/artemetal/1.jpg",
+			"descripcion": "Img 1"
+		},
+        {
+			"nombre": "2",
+			"ruta": "assets/img/artemetal/2.jpg",
+			"descripcion": "Img 1"
+		},
+        {
+			"nombre": "3",
+			"ruta": "assets/img/artemetal/3.jpg",
+			"descripcion": "Img 1"
+		},
+        {
+			"nombre": "4",
+			"ruta": "assets/img/artemetal/4.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "5",
+			"ruta": "assets/img/artemetal/5.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "6",
+			"ruta": "assets/img/artemetal/6.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "7",
+			"ruta": "assets/img/artemetal/7.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "8",
+			"ruta": "assets/img/artemetal/8.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "9",
+			"ruta": "assets/img/artemetal/9.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "10",
+			"ruta": "assets/img/artemetal/10.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "11",
+			"ruta": "assets/img/artemetal/11.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "12",
+			"ruta": "assets/img/artemetal/12.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "13",
+			"ruta": "assets/img/artemetal/13.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "14",
+			"ruta": "assets/img/artemetal/14.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "16",
+			"ruta": "assets/img/artemetal/16.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "17",
+			"ruta": "assets/img/artemetal/17.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "18",
+			"ruta": "assets/img/artemetal/18.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "19",
+			"ruta": "assets/img/artemetal/19.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "20",
+			"ruta": "assets/img/artemetal/20.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "21",
+			"ruta": "assets/img/artemetal/21.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "22",
+			"ruta": "assets/img/artemetal/22.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "23",
+			"ruta": "assets/img/artemetal/23.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "24",
+			"ruta": "assets/img/artemetal/24.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "25",
+			"ruta": "assets/img/artemetal/25.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "26",
+			"ruta": "assets/img/artemetal/26.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "27",
+			"ruta": "assets/img/artemetal/27.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "28",
+			"ruta": "assets/img/artemetal/28.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "29",
+			"ruta": "assets/img/artemetal/29.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "30",
+			"ruta": "assets/img/artemetal/30.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "31",
+			"ruta": "assets/img/artemetal/31.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "32",
+			"ruta": "assets/img/artemetal/32.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "33",
+			"ruta": "assets/img/artemetal/33.jpg",
+			"descripcion": "Img 1"
+		},
+		{
+			"nombre": "34",
+			"ruta": "assets/img/artemetal/34.mp4",
+			"descripcion": "Video"
+		}
+	]
+}
