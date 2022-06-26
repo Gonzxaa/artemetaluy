@@ -162,8 +162,13 @@
 		},
 		{
 			"nombre": "34",
-			"ruta": "assets/img/artemetal/34.mp4",
-			"descripcion": "Video"
+			"ruta": "assets/img/artemetal/34.jpeg",
+			"descripcion": "Img"
+		},
+		{
+			"nombre": "34",
+			"ruta": "assets/img/artemetal/35.jpeg",
+			"descripcion": "Img"
 		}
 	]
 }
