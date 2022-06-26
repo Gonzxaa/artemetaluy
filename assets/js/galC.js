@@ -55,7 +55,7 @@ const formularioImagenes = respuesta => {
 		}
 		if (resultado.innerHTML === '') {
 			resultado.innerHTML += `
-			<p>Oh oh.. parece que todavía no tenemos imagenes acerca de eso 😮</p>
+			<p>Oh oh.. Parece que todavía no tenemos imágenes acerca de eso 😬</p>
 				`
 		}
         if (formulario.value == '') {
